@@ -1,0 +1,7 @@
+0.tga 0.key
+1.tga 1.key
+2.tga 2.key
+3.tga 3.key
+4.tga 4.key
+5.tga 5.key
+6.tga 6.key
